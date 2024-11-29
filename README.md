@@ -4,7 +4,7 @@ I'm Romain, a former Administrative Director turned ML Operations Engineer, comb
 
 🔄 My Journey
 
-After successfully leading digital transformation projects and managing complex data systems, I've transitioned into MLOps and Data Engineering to build scalable, production-ready ML solutions.
+I've transitioned into MLOps and Data Engineering to build scalable, production-ready ML solutions.
 
 💡 What I Do
 
