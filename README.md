@@ -1,6 +1,6 @@
 👋 Hello!
 
-I'm Romain, a former Administrative Director turned ML Operations Engineer, combining 18+ years of project management experience with modern data engineering skills.
+I'm Romain, a former Administrative Director turned MLOps Engineer & Data Engineer, combining 18+ years of project management experience with modern data engineering skills.
 
 🔄 My Journey
 
